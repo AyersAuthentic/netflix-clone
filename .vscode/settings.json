@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": null,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.colorTheme": "Dark Material Dracula",
+    "workbench.preferredDarkColorTheme": "Kimbie Dark"
+}
